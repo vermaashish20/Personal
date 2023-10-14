@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Journey/static/js/main.d9c2bef3.js",
+    "static/media/R_4.jpg": "/Journey/static/media/R_4.96cd47204cc879f9e6d6.jpg",
+    "static/media/R_1.png": "/Journey/static/media/R_1.83579f12ec602f261b1d.png",
+    "index.html": "/Journey/index.html",
+    "main.d9c2bef3.js.map": "/Journey/static/js/main.d9c2bef3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d9c2bef3.js"
+  ]
+}
